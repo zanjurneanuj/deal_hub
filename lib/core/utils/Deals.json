@@ -1,0 +1,178 @@
+[
+  {
+    "id": "deal_001",
+    "companyName": "NexGen Solar",
+    "industry": "Clean Energy",
+    "investmentRequired": 25000000,
+    "expectedROI": 28.5,
+    "riskLevel": "Low",
+    "status": "Open",
+    "companyOverview": "NexGen Solar is a leading renewable energy company specializing in utility-scale solar installations across India. Founded in 2018, we have successfully deployed over 500 MW of solar capacity across 12 states, delivering clean energy to more than 2 million homes.",
+    "financialHighlights": "Revenue: ₹180 Cr (FY24) | EBITDA Margin: 34% | Debt/Equity: 0.4 | Current Ratio: 2.1 | YoY Growth: 42%",
+    "riskExplanation": "Low risk profile backed by long-term PPAs (Power Purchase Agreements) with government entities. Stable cash flows with minimal exposure to commodity price fluctuations. Regulatory risk is mitigated by strong policy support for renewables.",
+    "founded": "2018",
+    "employees": 320,
+    "location": "Bengaluru, Karnataka",
+    "roiProjection": [
+      {"year": 1, "roi": 8.0},
+      {"year": 2, "roi": 14.5},
+      {"year": 3, "roi": 19.2},
+      {"year": 4, "roi": 24.0},
+      {"year": 5, "roi": 28.5}
+    ]
+  },
+  {
+    "id": "deal_002",
+    "companyName": "FinEdge Technologies",
+    "industry": "FinTech",
+    "investmentRequired": 15000000,
+    "expectedROI": 42.0,
+    "riskLevel": "High",
+    "status": "Open",
+    "companyOverview": "FinEdge is disrupting the MSME lending space with AI-powered credit scoring. Our proprietary algorithm processes 2000+ data points to underwrite loans in under 4 minutes, serving 80,000+ businesses across Tier 2 and Tier 3 cities.",
+    "financialHighlights": "Revenue: ₹65 Cr (FY24) | EBITDA Margin: 18% | NPA: 2.1% | AUM: ₹420 Cr | YoY Growth: 210%",
+    "riskExplanation": "High growth potential comes with elevated risk due to the nascent MSME credit market. Credit risk is the primary concern, though mitigated by AI-driven underwriting. Regulatory changes in NBFC space could impact operations.",
+    "founded": "2021",
+    "employees": 145,
+    "location": "Mumbai, Maharashtra",
+    "roiProjection": [
+      {"year": 1, "roi": 5.0},
+      {"year": 2, "roi": 12.0},
+      {"year": 3, "roi": 22.5},
+      {"year": 4, "roi": 33.0},
+      {"year": 5, "roi": 42.0}
+    ]
+  },
+  {
+    "id": "deal_003",
+    "companyName": "MedCore Health",
+    "industry": "Healthcare",
+    "investmentRequired": 40000000,
+    "expectedROI": 22.0,
+    "riskLevel": "Medium",
+    "status": "Open",
+    "companyOverview": "MedCore Health operates a chain of 24 diagnostic centers and 3 multi-specialty hospitals in South India. We combine AI diagnostics with telemedicine to deliver affordable, quality healthcare to underserved populations.",
+    "financialHighlights": "Revenue: ₹290 Cr (FY24) | EBITDA Margin: 26% | Bed Occupancy: 78% | Lab Tests/Day: 4200 | YoY Growth: 31%",
+    "riskExplanation": "Medium risk driven by healthcare sector regulations and capital-intensive expansion plans. Strong brand and established patient base provide stability. Insurance penetration growth is a key tailwind.",
+    "founded": "2016",
+    "employees": 1200,
+    "location": "Chennai, Tamil Nadu",
+    "roiProjection": [
+      {"year": 1, "roi": 6.0},
+      {"year": 2, "roi": 10.5},
+      {"year": 3, "roi": 14.8},
+      {"year": 4, "roi": 18.5},
+      {"year": 5, "roi": 22.0}
+    ]
+  },
+  {
+    "id": "deal_004",
+    "companyName": "AgriBoost India",
+    "industry": "AgriTech",
+    "investmentRequired": 12000000,
+    "expectedROI": 35.0,
+    "riskLevel": "High",
+    "status": "Open",
+    "companyOverview": "AgriBoost connects 500,000+ farmers with markets, credit, and agri-inputs through a mobile-first platform. Our end-to-end supply chain solution reduces post-harvest losses by 40% and increases farmer income by an average of 28%.",
+    "financialHighlights": "Revenue: ₹48 Cr (FY24) | GMV: ₹380 Cr | Active Farmers: 5.2L | EBITDA Margin: -8% | YoY Growth: 185%",
+    "riskExplanation": "High risk due to pre-profitability stage and dependence on monsoon patterns. Regulatory tailwinds from government agri reforms are positive. Geographic concentration in Maharashtra and MP adds operational risk.",
+    "founded": "2020",
+    "employees": 210,
+    "location": "Pune, Maharashtra",
+    "roiProjection": [
+      {"year": 1, "roi": -2.0},
+      {"year": 2, "roi": 8.0},
+      {"year": 3, "roi": 18.5},
+      {"year": 4, "roi": 27.0},
+      {"year": 5, "roi": 35.0}
+    ]
+  },
+  {
+    "id": "deal_005",
+    "companyName": "LogiSwift Freight",
+    "industry": "Logistics",
+    "investmentRequired": 30000000,
+    "expectedROI": 19.5,
+    "riskLevel": "Low",
+    "status": "Closed",
+    "companyOverview": "LogiSwift operates India's largest B2B freight network with 15,000+ trucks, 320 transshipment hubs, and next-day delivery coverage across 450+ cities. Our tech stack enables real-time tracking and automated freight matching.",
+    "financialHighlights": "Revenue: ₹520 Cr (FY24) | EBITDA Margin: 16% | Fleet Utilization: 87% | NPS: 72 | YoY Growth: 24%",
+    "riskExplanation": "Low risk with diversified client base spanning FMCG, pharma, and e-commerce. Fuel price volatility is the key risk, partially hedged through dynamic pricing mechanisms. Strong repeat client relationships ensure steady revenue.",
+    "founded": "2015",
+    "employees": 3400,
+    "location": "Delhi NCR",
+    "roiProjection": [
+      {"year": 1, "roi": 5.5},
+      {"year": 2, "roi": 9.0},
+      {"year": 3, "roi": 13.0},
+      {"year": 4, "roi": 16.5},
+      {"year": 5, "roi": 19.5}
+    ]
+  },
+  {
+    "id": "deal_006",
+    "companyName": "EduSpark Learning",
+    "industry": "EdTech",
+    "investmentRequired": 8000000,
+    "expectedROI": 38.0,
+    "riskLevel": "Medium",
+    "status": "Open",
+    "companyOverview": "EduSpark delivers personalized K-12 learning through an adaptive AI engine that adjusts content difficulty in real-time. With 1.2 million active learners, we're the fastest-growing EdTech in Tier 2+ markets with 92% course completion rates.",
+    "financialHighlights": "Revenue: ₹72 Cr (FY24) | Gross Margin: 68% | CAC: ₹180 | LTV: ₹4200 | YoY Growth: 89%",
+    "riskExplanation": "Medium risk with high growth potential in the underserved Bharat EdTech market. Competition from well-funded players is the primary threat. Strong unit economics and high retention mitigate churn risk.",
+    "founded": "2019",
+    "employees": 185,
+    "location": "Hyderabad, Telangana",
+    "roiProjection": [
+      {"year": 1, "roi": 4.0},
+      {"year": 2, "roi": 11.0},
+      {"year": 3, "roi": 20.5},
+      {"year": 4, "roi": 29.5},
+      {"year": 5, "roi": 38.0}
+    ]
+  },
+  {
+    "id": "deal_007",
+    "companyName": "GreenBuild Corp",
+    "industry": "Real Estate",
+    "investmentRequired": 60000000,
+    "expectedROI": 17.0,
+    "riskLevel": "Low",
+    "status": "Open",
+    "companyOverview": "GreenBuild Corp develops LEED-certified commercial and residential properties across Tier 1 cities. Our green building portfolio spans 8 million sq ft, commanding a 15–20% premium over conventional construction.",
+    "financialHighlights": "Revenue: ₹680 Cr (FY24) | EBITDA Margin: 29% | Land Bank: 420 acres | Presales: ₹920 Cr | YoY Growth: 18%",
+    "riskExplanation": "Low risk backed by strong brand equity and pre-sold inventory covering 82% of upcoming launches. Interest rate sensitivity is a key macro risk. RERA compliance ensures project delivery timelines.",
+    "founded": "2012",
+    "employees": 2100,
+    "location": "Ahmedabad, Gujarat",
+    "roiProjection": [
+      {"year": 1, "roi": 4.5},
+      {"year": 2, "roi": 8.0},
+      {"year": 3, "roi": 11.5},
+      {"year": 4, "roi": 14.5},
+      {"year": 5, "roi": 17.0}
+    ]
+  },
+  {
+    "id": "deal_008",
+    "companyName": "CyberShield AI",
+    "industry": "Cybersecurity",
+    "investmentRequired": 20000000,
+    "expectedROI": 52.0,
+    "riskLevel": "High",
+    "status": "Open",
+    "companyOverview": "CyberShield AI builds autonomous threat detection and response systems for enterprise clients. Our platform processes 50 billion security events daily, with an AI model that detects novel threats 8x faster than traditional SIEM solutions.",
+    "financialHighlights": "Revenue: ₹38 Cr (FY24) | ARR: ₹52 Cr | NRR: 148% | Gross Margin: 82% | YoY Growth: 320%",
+    "riskExplanation": "High risk in a rapidly evolving landscape. Technology obsolescence risk is real in cybersecurity. However, sky-high NRR and strong enterprise contracts provide revenue visibility. Talent retention is a key operational risk.",
+    "founded": "2022",
+    "employees": 89,
+    "location": "Bengaluru, Karnataka",
+    "roiProjection": [
+      {"year": 1, "roi": 3.0},
+      {"year": 2, "roi": 10.5},
+      {"year": 3, "roi": 24.0},
+      {"year": 4, "roi": 38.5},
+      {"year": 5, "roi": 52.0}
+    ]
+  }
+]
