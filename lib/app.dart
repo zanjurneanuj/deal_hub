@@ -38,7 +38,7 @@ class _MyAppState extends State<MyApp> {
 
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'DealSphere',
+      title: 'DealHub',
 
       home: isLoggedIn!
           ? const DealListScreen() //  skip login

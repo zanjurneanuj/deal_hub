@@ -18,7 +18,6 @@ class MyAppRoot extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final dealRepository = DealRepository();
 
     return MultiBlocProvider(
       providers: [
